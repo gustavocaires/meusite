@@ -1,0 +1,105 @@
+/* tela cadastro/login */
+
+html{
+    background-color: black;
+    
+}
+.caixa{
+    width: 400px;
+    border: 2px solid;
+    border-color: white;
+    margin-left: 35%;
+    margin-top: 15%;
+    border-radius: 25px;
+    
+}
+
+.form-group{
+margin: 10px;
+}
+
+.btn-primary{
+    margin-top: 5px;
+}
+
+nav .form-login{
+    color: white;
+}
+
+nav .form-cadastro{
+    color: white;
+}
+
+.form-login{
+    font: sans-serif;
+    letter-spacing: 1px;
+    padding: 8px 10px 8px 10px;
+    background-color:black;
+    color:white;
+}
+
+.form-cadastro{
+    font: sans-serif;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    padding: 8px 10px 8px 10px;
+    background-color:black;
+    color:white;
+}
+
+#senha{
+    margin-top: 8px
+}
+
+.texto{
+    color: white;
+}
+
+.botao_esquerdo{
+    font-family:sans-serif;
+    font-size: 1.5r;
+    border: 2px solid #ffffff;
+    background-color: black;
+    padding: 1.5rem 2.5rem;
+    letter-spacing: 3px;
+    margin-left: 45px;
+    margin-right: -3px;
+    margin-top: -2px;
+    color: white;
+}
+
+.botao_esquerdo:hover{
+    background-color: #ffffff;
+    color: black;
+}
+
+.botao_direito{
+    font-family:sans-serif;
+    font-size: 1.5r;
+    border: 2px solid #ffffff;
+    background-color: black;
+    padding: 1.5rem 1.5rem;
+    letter-spacing: 3px;
+    margin-left: 5px;
+    margin-top: -2px;
+    color: white;
+}
+
+.botao_direito:hover{
+    background-color: #ffffff;
+    color: black;
+}
+
+#foto{
+    width: 400px;
+    border: 2px solid;
+    border-color: white;
+    margin-left: 35%;
+    margin-top: 15%;
+}
+
+#imgfoto{
+    width: 250px;
+    border: 2px solid;
+    border-color: white;
+}

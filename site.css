@@ -1,0 +1,17 @@
+html{
+    background-color: black
+}
+
+.foto{
+    width: 400px;
+    border: 2px solid;
+    border-color: white;
+    margin-left: 35%;
+    margin-top: 15%;
+}
+
+.imgfoto{
+    width: 250px;
+    border: 2px solid;
+    border-color: white;
+}
